@@ -1,1 +1,2 @@
 # lab-09
+So this lab was super different, where I had no class, just me against GitHub Learning Lab. I learned how to create a release based workflow using tags, pull requests, and hotfixes. It was kinda like a real project, and I got to see how versioning and branching works in bigger codebases. Took some time, but I actually learned a lot just clicking through and fixing all diffrent types of things.
